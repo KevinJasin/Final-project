@@ -38,7 +38,7 @@ See projekt hõlmab veebilehe loomist eriõpetajale, mille peamiseks eesmärgiks
 | 8. nädal   | Jätkusuutlikkuse ja hoolduse plaanimine          | Klient ja Arendaja       |
 
 ## Järgmised sammud
-- Kohtumine disaineriga, et arutada disaini ideid.
+- Kohtumine disaineriga, et arutada disaini.
 - Koostada detailne tehniline dokumentatsioon.
 - Alustada arendustöid vastavalt ajakavale.
 
