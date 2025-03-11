@@ -1,27 +1,27 @@
 # Veebileht eriõpetajale
 
 ## Ülevaade
-See projekt hõlmab veebilehe loomist eriõpetajale, mille peamiseks eesmärgiks on pakkuda klientidele võimalust broneerida aega ning hallata oma andmeid. Veebileht sisaldab kalendrit ja andmebaasi, kus hoitakse klientide kontakte.
+See projekt hõlmab veebilehe loomist eriõpetajale, mille peamiseks eesmärgiks on pakkuda klientidele võimalust saata küsimust ning saata info mida ta tahab õppida. Veebileht sisaldab ka matemaatika ülesannete genereerimise leht, kus võib teha iga sukuseid matemaatika ülesandeit.
 
 ## Funktsionaalsus
 
-### 1. Kalender
-- Aegade broneerimine
-- Broneeringute haldamine
-- Teavitused (kinnitused ja meeldetuletused)
+### 1. Küsimuste tabel
+- Saab saata küsimust
+- Küsimus läheb email
 
-### 2. Andmebaas
-- Klientide andmed (nimi, telefoninumber, e-post)
-- Andmete haldamine (lisamine, muutmine, kustutamine)
+### 2. Registreerimise tabel
+- Klientide andmed (Vanema nimi, Vanema telefoninumber, õpilase nimi, õpilase klass)
+- Kategooriad mida saab valida (Matemaatika, Eesti keel)
+-                               (Eksami ettevalmistus, Edasijõudnute tase, Puudujääkide täitmine)
+-                               (Grupp kuni 3 inimest, Grupp kuni 7 inimest, Individuaalne)
 
 ### 3. Kasutajaliides
 - Mugav ja intuitiivne disain
 - Kontaktvorm
-- Ülevaade broneeringutest
+- Matemaatika ülesandete genereerimise leht
 
 ## Tehnilised nõuded
-- **Veebitehnoloogiad:** 
-- **Andmebaas:** 
+- **Veebitehnoloogiad:**  
 - **Raamistik:** 
 
 ## Ajakava
