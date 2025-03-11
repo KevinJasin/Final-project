@@ -7,7 +7,7 @@ See projekt hõlmab veebilehe loomist eriõpetajale, mille peamiseks eesmärgiks
 
 ### 1. Küsimuste tabel
 - Saab saata küsimust
-- Küsimus läheb email
+- Küsimus läheb e-mailile
 
 ### 2. Registreerimise tabel
 - Klientide andmed (Vanema nimi, Vanema telefoninumber, õpilase nimi, õpilase klass)
