@@ -1,4 +1,4 @@
-# Veebileht eriõpetajale
+# Veebileht abiõpetajale
 
 ## Ülevaade
 See projekt hõlmab veebilehe loomist eriõpetajale, mille peamiseks eesmärgiks on pakkuda klientidele võimalust saata küsimust ning saata info mida ta tahab õppida. Veebileht sisaldab ka matemaatika ülesannete genereerimise leht, kus võib teha iga sukuseid matemaatika ülesandeit.
